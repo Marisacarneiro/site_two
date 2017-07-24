@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <META cheertset="UTF-8">
+        <title>Site Two</title>
+    </head>
+
+    <body>
+        <header id="Topo">
+            <img src="xadrez_01.jpg"  alt="site two">
+         </header>
+
+        <nav id="menu-principal">
+
+        </nav>
+
+
+    </body>
+
+</html>
+

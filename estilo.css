@@ -1,0 +1,66 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#menu ul {
+   background-color: #1E90FF;
+   height:30px;
+   width: 100%;
+   text-align: center;
+
+}
+
+#menu ul li {
+	display: inline;
+}
+
+#logo>img {
+	width:110px;
+	height:110px;
+	border-radius: 50px;
+}
+
+#novidades {
+	width:600px;
+	height:400px;
+	float: left;
+}
+
+
+
+h2, p {
+	color: #00008B;
+	font-family: arial;
+    font-size: 32px;
+   
+}
+
+
+#imagens1>img {
+	float: right;
+	width:672px;
+	height:410px;
+    
+}
+
+
+#imagens2>img {
+	float: left;
+	width:672px;
+	height:410px;
+    
+}
+
+.banner {
+	float: left;
+    height: 100px;
+    width: 1200px;
+}
+
+footer {
+	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+}
+
